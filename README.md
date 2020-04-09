@@ -1,5 +1,5 @@
 # WriteLine
-Made in Python.
+Made in C#.
 Just a 'WriteLine' script.
 Just some of my very early and basic creations that i'm still learning about.
 
